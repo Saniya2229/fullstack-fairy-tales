@@ -55,11 +55,11 @@ scalable architecture.
 
 ## 🏢 Employer Registration
 
-![Register](./screenshots/register.png)
+![Register](./screenshots/Employee-register.png)
 
 ## 📊 Employer Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Find-jobs.png)
 
 ---
 
