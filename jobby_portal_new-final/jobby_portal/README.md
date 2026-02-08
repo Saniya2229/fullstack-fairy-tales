@@ -51,7 +51,7 @@ scalable architecture.
 
 ## 🔐 Login Page
 
-![Login](./screenshots/login.png)
+![Login](./screenshots/Login.png)
 
 ## 🏢 Employer Registration
 
